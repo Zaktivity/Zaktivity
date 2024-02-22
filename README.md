@@ -1,5 +1,5 @@
 # Hello, I'm Zaktivity
-<a href="[https://linkedin.com](https://linkedin.com/in/zakariaob)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/zakariaob"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Experienced Freelance Illustrator with a demonstrated history of satisfied clients. Skilled in Adobe Photoshop, Clip Studio Paint, and Adobe Illustrator. With a master's degree in Studies in Literary and Cultural Encounters (SliCE).
